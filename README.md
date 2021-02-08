@@ -9,5 +9,5 @@ I am very fond of travelling :airplane: and exploring new places.
 I like listening to music:musical_note: in my free time.
 I like reading scientific facts💡
 
-TECHNICAL STATS:compute
+TECHNICAL STATS :computer:
 As I am new to this technical world, I have started learning c language. The domains of machine learning🤖 and ethical hacking  facsinates me a lot. And I look forward towards excelling in these 2 particular domains.:raised_hands:
