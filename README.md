@@ -11,4 +11,4 @@ I like reading scientific facts💡
 
 TECHNICAL STATS :computer:
 
-As I am new to this technical world, I have started learning c language. The domains of machine learning🤖 and ethical hacking  facsinates me a lot. And I look forward towards excelling in these 2 particular domains.:raised_hands:
+As I am new to this technical world, I have started learning c language. The domains of machine learning🤖 and ethical hacking  fascinates me a lot. And I look forward towards excelling in these 2 particular domains.:raised_hands:
