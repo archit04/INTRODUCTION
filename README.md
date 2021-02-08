@@ -18,3 +18,6 @@ As I am new to this technical world, I have started learning c language.The doma
 
 For future collaborations🤝 you can contact me on my following Linked In Id
 https://www.linkedin.com/in/archit-gupta-6578921ba
+
+
+  BE THE CHANGE:muscle: YOU WANT TO SEE IN THE WORLD.:earth_americas: 
