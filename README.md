@@ -1,12 +1,6 @@
 INTRODUCTION:sparkles:
 
-My name is Archit Gupta :boy:.
-
-I belong to Sundernagar,(HP):house_with_garden:.
-
-I have done my schooling from Dps jhakri:school:(Distt. Shimla).
-
-Currently I am persuing my B.TECH 🎓 from NIT HAMIRPUR in Electrical Engineering.
+My name is Archit Gupta :boy:.I belong to Sundernagar,(HP):house_with_garden:.I have done my schooling from Dps jhakri:school:(Distt. Shimla).Currently I am persuing my B.TECH 🎓 from NIT HAMIRPUR in Electrical Engineering.
 
 HOBBIES:muscle:
 
@@ -20,8 +14,4 @@ I like reading scientific facts💡
 
 TECHNICAL STATS :computer:
 
-As I am new to this technical world, I have started learning c language.
-
-The domains of machine learning🤖 and ethical hacking  fascinates me a lot.
-
-And I look forward towards excelling in these 2 particular domains.:raised_hands:
+As I am new to this technical world, I have started learning c language.The domains of machine learning🤖 and ethical hacking  fascinates me a lot.And I look forward towards excelling in these 2 particular domains.:raised_hands:
